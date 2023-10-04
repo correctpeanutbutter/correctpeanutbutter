@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @correctpeanutbutter.
+- 👀 I’m interested in startups, business, traveling, and cars.
+- 🌱 I’m currently learning React Native, Next.js 13, and working towards my ATPL.
+- 💼 I’m looking to collaborate on innovative projects.
+- 📫 You can reach me at [stolarktaj@proton.me].
